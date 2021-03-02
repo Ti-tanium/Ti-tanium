@@ -1,9 +1,6 @@
 <h1>Hi👋, I'm Titanium</h1>
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=Ti-tanium&show_icons=true&include_all_commits=true&line_height=35"/>
-
-<details>
- <summary><b>More...</b></summary>  
     
 ## 😎 A little more about me...  
 
@@ -43,9 +40,6 @@ Tools
 Others  
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Centos](https://img.shields.io/badge/-Centos-262577?style=flat-square&logo=Centos)
-
-
-</details>
 
 
 
