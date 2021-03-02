@@ -2,18 +2,6 @@
 
 <img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true&line_height=35"/>
 
-
-
-### 💼**Web Full Stack Developer**  
-👇 Hit in your terminal to connect with me.
-```bash
-npx alpaca-bi
-```
-👇 If you use [**Deno**](https://deno.land)🦕, you also can 
-```bash
-deno run https://cdn.alpaca.run/AlpacaBi.js
-```
-
 <details>
  <summary><b>More...</b></summary>  
     
@@ -32,7 +20,6 @@ AlpacaBi := &Info {
 ```
 
 ## ⚡ Technologies
-<img align="right" width="270" src="https://cdn.alpaca.run/alpaca.gif">
 
 Lanuage  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
