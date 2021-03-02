@@ -6,7 +6,7 @@
 
 ```go
 AlpacaBi := &Info {
-    Name: "Alpaca Bi",
+    Name: "Ti-tanium",
     Age: 23,
     Work: "Web Full Stack Developer",
     Email: "lixiaoxiong599@gmail.com",
