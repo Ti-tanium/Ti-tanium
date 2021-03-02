@@ -9,7 +9,6 @@ AlpacaBi := &Info {
     Name: "Ti-tanium",
     Age: 23,
     Work: "Web Full Stack Developer",
-    Email: "lixiaoxiong599@gmail.com",
     Wechat: "Titanium-----",
     Website: "titanium.github.io",
     Location: "Shenzhen China"
