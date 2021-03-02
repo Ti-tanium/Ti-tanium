@@ -1,6 +1,6 @@
 <h1>Hi👋, I'm Titanium</h1>
 
-<img align="right" src="https://github-stat.alpaca.run/api?username=alpacabi&show_icons=true&include_all_commits=true&line_height=35"/>
+<img align="right" src="https://github-stat.alpaca.run/api?username=Ti-tanium&show_icons=true&include_all_commits=true&line_height=35"/>
 
 <details>
  <summary><b>More...</b></summary>  
@@ -23,9 +23,10 @@ AlpacaBi := &Info {
 
 Lanuage  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=Java)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 
 Framework  
 ![Vue](https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=Vue.js)
