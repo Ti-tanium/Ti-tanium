@@ -23,8 +23,8 @@ AlpacaBi := &Info {
 
 Lanuage  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=Java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
