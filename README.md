@@ -8,7 +8,7 @@
 AlpacaBi := &Info {
     Name: "Ti-tanium",
     Age: 23,
-    Work: "Web Full Stack Developer",
+    Work: "Web Frontend Developer",
     Wechat: "Titanium-----",
     Website: "titanium.github.io",
     Location: "Shenzhen China"
@@ -19,10 +19,9 @@ AlpacaBi := &Info {
 
 Lanuage  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
 
 Framework  
