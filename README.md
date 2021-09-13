@@ -5,7 +5,7 @@
 ## 😎 A little more about me...  
 
 ```go
-AlpacaBi := &Info {
+Titanium := &Info {
     Name: "Ti-tanium",
     Age: 23,
     Work: "Web Frontend Developer",
