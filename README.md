@@ -8,10 +8,10 @@
 Titanium := &Info {
     Name: "Ti-tanium",
     Age: 23,
-    Work: "Web Frontend Developer",
+    Work: "Software Engineer",
     Wechat: "Titanium-----",
     Website: "titanium.github.io",
-    Location: "Shenzhen China"
+    Location: "Austin, Texas"
 }
 ```
 
